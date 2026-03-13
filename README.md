@@ -1,6 +1,6 @@
 ## Code Insights
 
-This project contains two simple Python utility functions.
+This assignment contains two simple Python utility functions.
 
 The first function, `count_log_levels(logs)`, processes a list of log messages and counts how many times each log level (INFO, WARN, ERROR) appears. 
 It initializes a dictionary with these log levels set to zero and then iterates through each log entry. For every log message, it extracts the log level by splitting the string at the colon (`:`).
